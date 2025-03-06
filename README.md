@@ -3,6 +3,8 @@
 
 ## Overview
 
+Detailed documentation [here](https://docs.google.com/document/d/17zejoL4ThLbdRQ2oCCRGq3w9wlbUDE5z_cHE_6pvWec/edit?usp=sharing).
+
 This repository contains code for IEEE-CS Enrollment Task's Image Classification Challenge where you classify images (70,000 grayscale images of 28×28 pixels), representing "fashion items" into 10 categories. The challenge is divided into these 4 task levels:
 
 1. **Level 0: Data Loading and Initial Inspection**  
