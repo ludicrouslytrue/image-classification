@@ -24,6 +24,16 @@ The dataset can be downloaded from [here](https://drive.google.com/file/d/1byxnc
 - If you prefer to use your own dataset, ensure it follows this format:
   - The first column is the label (an integer value).
   - The next 784 columns contain pixel values (since the images are 28px*28px).
+ 
+## Downloading the required libraries
+
+- Ensure that you have pip installed.
+- Open terminal the repository where all files are saved.
+- Run the following command:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
 
 ## Code Files
 
